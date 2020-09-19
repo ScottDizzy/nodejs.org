@@ -25,7 +25,7 @@ server.listen(port, hostname, () => {
 });
 ```
 
-Now, run your web server using `node app.js`. Visit `http://localhost:3000` and
+Now, open a command prompt to the directory where your app.js file resides.  To run your web server type `node app.js`. Visit `http://localhost:3000` and
 you will see a message saying "Hello World".
 
 Refer to the [Introduction to Node.js](https://nodejs.dev/) for a more
